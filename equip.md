@@ -4,3 +4,4 @@
 * Joel Fuster Bosch
 * Ivan Atienza
 * Jordi Grau
+* Sonia Roig Martí
