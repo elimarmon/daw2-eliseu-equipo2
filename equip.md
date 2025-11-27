@@ -2,5 +2,6 @@
 
 * Eliseu Martínez Monrabal
 * Joel Fuster Bosch
-* Sonia Roig Martí
 * Ivan Atienza
+* Jordi Grau
+* Sonia Roig Martí
